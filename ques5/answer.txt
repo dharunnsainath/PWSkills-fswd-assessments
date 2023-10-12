@@ -1,0 +1,6 @@
+5. What is the DOCTYPE Declaration in HTML?
+
+answer:It basically describes the browser what version of html we are using.
+This ensures uniformity for different web browsers in order to parse and render the html.
+
+<!DOCTYPE html>--> we usually use this and this defines HTML5 version.

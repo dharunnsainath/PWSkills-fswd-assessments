@@ -1,0 +1,13 @@
+4. Write a short note on Tag and element with an example.
+
+a)What are tags?
+Tags are elements that the browser will use to distinguish between html and ordinary text.
+Basically they are like keywords in html .
+HTML tags contain three main parts: opening tag, content and closing tag. 
+But some HTML tags are unclosed tags.
+
+b)what are elements?
+Elements are basically everything from starting tag , the content inside the tag and the end tag
+ 
+
+ examples are in index.html
